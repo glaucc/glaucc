@@ -7,9 +7,7 @@
   <h4 align="center"><b>"No talking, only code."</b></h4>
 </p>
 
-<p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Sumanth-Talluri" />
-</p>
+
 
 <p align="center">
 <br>
