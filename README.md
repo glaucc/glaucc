@@ -7,8 +7,8 @@
   <h4 align="center"><b>"No talking, only code."</b></h4>
 </p>
 
-<p>300 DAYS OF CODE IN A ROW: #goals</p>
-<p>8 DAYS DONE</p>
+<p align="center">300 DAYS OF CODE IN A ROW: #goals</p>
+<p align="center" style={color: red}>8 DAYS DONE</p>
 
 
 <p align="center">
