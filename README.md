@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">300 DAYS OF CODE IN A ROW🏆</p>
-<p align="center" style="color:red">13 DAYS DONE😤</p>
+<p align="center" style="color:red">14 DAYS DONE😤</p>
 <p align="center">#goals</p>
 
 <p align="center">
