@@ -51,7 +51,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=glaucc&show_icons=true&locale=en" alt="glaucc" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glaucc&" alt="glaucc" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glaucc&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="glaucc" /></p>
 <br>
 <br>
 <br>
