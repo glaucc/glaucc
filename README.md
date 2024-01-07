@@ -22,12 +22,12 @@
 ### I am a grad student at WCU
 - 🔭 I’m currently working on Real-Time Business Apps
 - 🌱 I’m currently learning & mastering Web Development.
-- 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2023 Goals: Contribute to Open Source projects
-- 💬 Ask me about anything, I am happy to help :smile:
+- 👯 I’m looking to collaborate with other Developers
+- 🥅 2023 Goals: Increase the professional knowledge
+- 💬 Ask me about anything, I am happy to help
 - 📬 How to reach me: <a href="https://www.linkedin.com/in/yusif-ahmedov/">[Let's get in touch!]</a>
 - 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
+- ⚡ Fun fact: I love connecting with different people
 
 <br>
 
