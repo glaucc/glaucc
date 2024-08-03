@@ -20,11 +20,10 @@
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am a grad student at WCU
-- 🔭 I’m currently working on Real-Time Business Apps
-- 🌱 I’m currently learning & mastering Web Development.
+- 🔭 I’m currently working on High-Tech Games.
+- 🌱 I’m currently learning & mastering Godot.
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2023 Goals: Increase the professional knowledge
-- 💬 Ask me about anything, I am happy to help
+- 🥅 2024 Goals: Increase the professional knowledge
 - 📬 How to reach me: <a href="https://www.linkedin.com/in/yusif-ahmedov/">[Let's get in touch!]</a>
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people
